@@ -1,0 +1,20 @@
+@import url(style.css);
+@import url(navbar.css);
+main {
+  width: 100%;
+  height: auto;
+  background-color: rgb(240, 240, 240);
+}
+
+/*-----Descripcion------*/
+.descripcion__titulo {
+  font-weight: bold;
+}
+
+.sub-dark {
+  background-color: hsl(218deg, 23%, 23%);
+}
+
+.descripcion__img img {
+  border-radius: 45%;
+}/*# sourceMappingURL=main.css.map */
